@@ -1,5 +1,4 @@
 # Exercise-03d-Shaders
-# Exercise-03d-Shaders
 
 Exercise for MSCH-C220, 30 September 2021
 
